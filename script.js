@@ -1,6 +1,6 @@
 // Get references to our buttons and elements
 const yesBtn = document.getElementById('yesBtn');
-const noBtn = document.getElementById('yesBtn');
+const noBtn = document.getElementById('noBtn');
 const celebration = document.getElementById('celebration');
 const container = document.querySelector('.container');
 
